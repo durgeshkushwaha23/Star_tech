@@ -35,11 +35,11 @@ const Structure = () => {
 
       <div className="absolute px-10 items-center z-50 flex justify-between w-full bottom-[5%] left-0">
         <img
-          className="h-46 "
+          className="h-28 "
           src="https://cdn.prod.website-files.com/65ef0d86eff3b9ba6b18aef9/6601a44ad564d4d03ce8f94f_Object1.svg"
           alt=""
         />
-        <img
+        <img  
           className="h-24"
           src="https://cdn.prod.website-files.com/65ef0d86eff3b9ba6b18aef9/6601a486295efb3bb8c5d777_Object2.svg"
           alt=""
